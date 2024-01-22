@@ -15,5 +15,5 @@
 • Data Skills: Cleaning, preprocessing, visualization, analysis, and report creation
 • Interactive Dashboard: Crafted an engaging dashboard for dynamic exploration and analysis.
 
-🚀 Conclusion & Actionable Strategy: Based on the insights gained, the strategy for Vrinda Store's sales improvement is crystal clear:
+🚀 Conclusion & Actionable Strategy: Based on the insights gained, the strategy for the Store's sales improvement is crystal clear:
 ✨ Target Audience: Women aged 30-49 years 📍 Geographical Focus: Maharashtra, Karnataka, and Uttar Pradesh 🛍️ Preferred Channels: Amazon, Flipkart, and Myntra
