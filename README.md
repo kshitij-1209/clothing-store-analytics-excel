@@ -8,6 +8,7 @@
 5. Top Contributing States: Listed the top 5 states contributing to sales, with Maharashtra, Karnataka, and Uttar Pradesh taking the lead at approximately 35%.
 6. Age and Gender Relationship: Explored the relationship between age and gender, revealing that the adult age group (30-49 yrs) made up around 50% of the customer base.
 7. Channel-wise Sales Contribution: Unveiled that Amazon, Flipkart, and Myntra channels were the major contributors, accounting for approximately 80% of the total sales.
+
 🌟 Insights & Learnings:
 • Tools Mastery: Excel, Pivot Charts, and Pivot Tables
 • Data Skills: Cleaning, preprocessing, visualization, analysis, and report creation
