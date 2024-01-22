@@ -17,3 +17,8 @@
 
 🚀 Conclusion & Actionable Strategy: Based on the insights gained, the strategy for the Store's sales improvement is crystal clear:
 ✨ Target Audience: Women aged 30-49 years 📍 Geographical Focus: Maharashtra, Karnataka, and Uttar Pradesh 🛍️ Preferred Channels: Amazon, Flipkart, and Myntra
+
+<img width="895" alt="image" src="https://github.com/kshitij-1209/clothing-store-analytics-excel/assets/94887827/dd6c68f0-d558-4a53-b6e0-53c1f8b48a00">
+
+
+
